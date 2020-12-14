@@ -13,7 +13,7 @@
 | numpy-base  | 1.19.2 |
 | pandas  | 1.1.3 |
 | sklearn  | 0.0 |
-| scikit-learn  | 0.20.4 |
+| scikit-learn  | 0.23.2 |
 
 Python version: 3.7.9
 
