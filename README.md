@@ -1,5 +1,6 @@
 # Kaggle-Mobile-Apps
-
+We have implemented and tested our project using 
+Python version: 3.7.9 and following versions of libraries
 | Library name  | Version |
 | ------------- | ------------- |
 | seaborn | 0.11.0  |
@@ -15,7 +16,6 @@
 | sklearn  | 0.0 |
 | scikit-learn  | 0.23.2 |
 
-Python version: 3.7.9
 
 ## Intepreter settings:
 
