@@ -1,5 +1,7 @@
 # Kaggle-Mobile-Apps
 
+All of us used Pycharm Professional as a IDE.
+
 | Module name  | Version |
 | ------------- | ------------- |
 | seaborn | 0.11.0  |
@@ -15,4 +17,6 @@
 | python  | 3.7.9  | 
 | scikit-learn  | ?  |
 
-Conda environment interpreter -> python version: 3.7
+Intepreter settings:
+
+Python interpreter -> Add interpreter -> Conda environment -> New environment -> Python version: 3.7 -> OK
