@@ -20,3 +20,9 @@ All of us used Pycharm Professional as a IDE.
 Intepreter settings:
 
 Python interpreter -> Add interpreter -> Conda environment -> New environment -> Python version: 3.7 -> OK
+
+How to run:
+
+Pycharm -> Terminal -> jupyter notebook -> jupyter_main.ipynb in browser -> Check in Trused -> Kernel -> Restart and Run All
+
+Some cells are commented, because are unnecessary to show and some cells require extremely much time to process. (Finding apps with equal names in both stores)
