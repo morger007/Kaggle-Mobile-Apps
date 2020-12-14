@@ -14,14 +14,15 @@ All of us used Pycharm Professional as a IDE.
 | numpy  | 1.19.2 |
 | numpy-base  | 1.19.2 |
 | pandas  | 1.1.3 |
-| python  | 3.7.9  | 
 | scikit-learn  | ?  |
 
-Intepreter settings:
+Python version: 3.7.9
+
+## Intepreter settings:
 
 Python interpreter -> Add interpreter -> Conda environment -> New environment -> Python version: 3.7 -> OK
 
-How to run:
+## How to run:
 
 Pycharm -> Terminal -> Type 'jupyter notebook' -> Open jupyter_main.ipynb in browser -> Check in 'Trused' -> Kernel -> Restart and Run All
 
